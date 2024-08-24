@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tumor Detection</title>
+</head>
+<body>
+    <h1>Upload an MRI Image</h1>
+    <form id="upload-form">
+        <input type="file" id="file-input" name="file">
+        <button type="submit">Upload</button>
+    </form>
+    <div id="result"></div>
+
+    <script>
+        document.getElementById('upload-form').addEventListener('submit', async (event) => {
+            event.preventDefault();
+            const formData = new FormData();
+            const fileInput = document.getElementById('file-input');
+            formData.append('file', fileInput.files[0]);
+
+            const response = await fetch('/predict', {
+                method: 'POST',
+                body: formData
+            });
+
+            const result = await response.json();
+            document.getElementById('result').innerHTML = `
+                <h2>Prediction Result</h2>
+                <p><strong>Tumor Size (cm²):</strong> ${result.tumor_size_cm2}</p>
+                <p><strong>Depth:</strong> ${result.is_superficial}</p>
+                <img src="${result.image}" alt="Predicted Tumor Image">
+            `;
+        });
+    </script>
+</body>
+</html>

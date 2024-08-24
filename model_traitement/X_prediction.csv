@@ -1,0 +1,1002 @@
+Tumor Size (cm),Tumor Location,Age,Sex,Tumor Type
+4.547222231907509,Soft Tissue,51,Female,Well-Defined
+7.045835250738949,Liver,30,Male,Irregular
+7.908294932035183,Liver,79,Male,Irregular
+2.5176426049159324,Soft Tissue,67,Male,Well-Defined
+4.086618720449635,Soft Tissue,49,Male,Well-Defined
+1.5143746091787182,Liver,82,Female,Well-Defined
+1.564636208290235,Soft Tissue,26,Male,Dense Tissue
+2.368421225511645,Breast,52,Female,Well-Defined
+7.226184716055744,Brain,28,Male,Dense Tissue
+2.692584081427569,Soft Tissue,42,Female,Irregular
+3.9550503929603726,Bone,77,Female,Dense Tissue
+2.0065630667585577,Liver,37,Male,Soft Tissue
+5.043625368668062,Breast,77,Male,Calcified
+5.754084815334546,Soft Tissue,70,Male,Dense Tissue
+4.124217687326573,Liver,26,Male,Well-Defined
+2.491677482258355,Brain,28,Male,Irregular
+5.028842892276181,Bone,71,Female,Well-Defined
+8.831163785488375,Bone,49,Male,Well-Defined
+3.8788574683108137,Brain,77,Female,Well-Defined
+2.7259831572761097,Brain,61,Female,Dense Tissue
+8.473440234408757,Liver,20,Female,Irregular
+1.0952688918327347,Liver,27,Male,Irregular
+2.2896366112351507,Breast,19,Female,Dense Tissue
+7.254694797263724,Breast,32,Female,Calcified
+4.287958576021195,Liver,68,Male,Dense Tissue
+7.270572955611691,Liver,36,Female,Dense Tissue
+3.5429777710195376,Soft Tissue,23,Female,Irregular
+3.339986774393946,Bone,21,Male,Calcified
+9.0882427146972,Soft Tissue,33,Female,Dense Tissue
+2.2443251537331785,Bone,58,Male,Well-Defined
+4.8209073999161385,Brain,39,Female,Irregular
+8.726686306698838,Liver,66,Male,Calcified
+3.1548280189167475,Breast,73,Male,Calcified
+1.1975106844649548,Soft Tissue,37,Female,Irregular
+2.870253405426599,Brain,18,Female,Well-Defined
+7.751822053218545,Breast,67,Female,Soft Tissue
+7.360974747305857,Brain,71,Male,Irregular
+9.91620805000168,Liver,51,Male,Calcified
+5.934503122547065,Liver,31,Male,Well-Defined
+6.577458602125278,Brain,45,Female,Irregular
+8.627934555059,Brain,80,Male,Well-Defined
+1.190074494095424,Soft Tissue,47,Female,Calcified
+6.709583831422714,Bone,80,Male,Calcified
+2.5655113000105305,Brain,78,Female,Dense Tissue
+8.768946351818668,Bone,54,Female,Well-Defined
+1.620516365485433,Liver,84,Female,Calcified
+6.836290697442605,Breast,35,Female,Soft Tissue
+8.060991430587588,Soft Tissue,42,Female,Dense Tissue
+4.671359632541879,Breast,32,Female,Dense Tissue
+5.260921722145413,Liver,22,Female,Soft Tissue
+7.309267228609499,Brain,18,Female,Well-Defined
+4.729235293402588,Breast,20,Male,Calcified
+1.4002011133727679,Soft Tissue,67,Female,Soft Tissue
+8.21546634838582,Brain,84,Male,Soft Tissue
+3.4661873647221357,Liver,42,Male,Well-Defined
+5.05121252194309,Breast,61,Male,Calcified
+4.039766690301153,Soft Tissue,31,Male,Well-Defined
+8.532223479092671,Breast,41,Female,Well-Defined
+9.15648168593189,Brain,33,Female,Irregular
+7.135448104161922,Liver,78,Male,Calcified
+5.261427838758298,Bone,73,Female,Dense Tissue
+9.004388635012909,Bone,82,Male,Irregular
+5.939166698739173,Liver,38,Female,Calcified
+7.9900603722752495,Liver,68,Male,Well-Defined
+2.7872592562528373,Soft Tissue,71,Female,Soft Tissue
+3.4711570855306992,Brain,55,Female,Calcified
+2.087519665331012,Soft Tissue,41,Male,Soft Tissue
+8.18449872278088,Brain,51,Male,Well-Defined
+3.5904497763311167,Bone,71,Male,Dense Tissue
+1.2659664996457165,Liver,46,Male,Well-Defined
+2.485048320697877,Breast,54,Female,Irregular
+9.233278687490607,Brain,20,Male,Irregular
+1.4738878768610304,Liver,74,Female,Soft Tissue
+1.9584863685667142,Soft Tissue,37,Male,Dense Tissue
+3.540214942040107,Breast,38,Male,Well-Defined
+6.883879483459049,Breast,54,Male,Irregular
+1.2301921177224875,Breast,74,Male,Dense Tissue
+1.8888632238404024,Soft Tissue,46,Male,Dense Tissue
+2.3677663793836228,Breast,23,Female,Well-Defined
+8.635065947755125,Bone,22,Male,Irregular
+2.119043078588195,Soft Tissue,45,Male,Irregular
+5.261888826271413,Soft Tissue,46,Female,Dense Tissue
+9.261507724129336,Bone,34,Male,Soft Tissue
+1.3428962144612648,Soft Tissue,51,Male,Soft Tissue
+2.8199201830099274,Liver,35,Male,Soft Tissue
+1.8359635322036216,Liver,56,Female,Calcified
+3.519706372260148,Brain,80,Female,Well-Defined
+1.9299665132126065,Liver,22,Female,Dense Tissue
+1.0527354191170928,Liver,33,Male,Calcified
+8.246034663600977,Breast,80,Female,Calcified
+5.10423737443891,Bone,75,Male,Soft Tissue
+9.202629973967532,Breast,80,Female,Irregular
+7.2330914074952855,Brain,77,Female,Irregular
+5.797070568707296,Breast,55,Male,Well-Defined
+6.393894979461118,Brain,53,Male,Dense Tissue
+3.939645340971067,Brain,68,Female,Dense Tissue
+6.097918965420316,Soft Tissue,52,Male,Well-Defined
+7.905599440286162,Bone,55,Male,Well-Defined
+6.1136771839548905,Soft Tissue,62,Male,Calcified
+8.811463701610833,Breast,59,Male,Well-Defined
+1.5557273271224652,Breast,50,Male,Irregular
+5.739535072707011,Brain,46,Male,Dense Tissue
+3.137627343341232,Bone,23,Female,Soft Tissue
+9.34089665947064,Breast,19,Female,Well-Defined
+2.252621828283642,Breast,38,Female,Soft Tissue
+7.039048247857967,Breast,39,Female,Soft Tissue
+9.24659537614064,Brain,66,Male,Calcified
+4.277254904873514,Bone,54,Female,Dense Tissue
+6.150590318835336,Liver,31,Female,Irregular
+6.591145744969788,Breast,63,Female,Dense Tissue
+5.724547152425911,Bone,76,Male,Soft Tissue
+8.6311010357865,Brain,72,Male,Soft Tissue
+3.7774494560178606,Liver,38,Male,Well-Defined
+1.6701939146375913,Breast,54,Female,Well-Defined
+4.7592082407134715,Brain,62,Male,Soft Tissue
+4.127409790228926,Soft Tissue,30,Female,Well-Defined
+3.0256586063110946,Soft Tissue,52,Male,Dense Tissue
+8.895796673327798,Brain,48,Female,Dense Tissue
+7.559304493013919,Liver,23,Female,Calcified
+2.9599735302976526,Liver,25,Female,Irregular
+8.642782714826314,Bone,43,Male,Calcified
+6.110331508232529,Bone,55,Female,Dense Tissue
+6.302439087173688,Bone,64,Female,Soft Tissue
+8.821208810275689,Bone,50,Female,Well-Defined
+9.675312629119167,Brain,82,Male,Calcified
+4.047762338460361,Brain,25,Female,Soft Tissue
+5.890408266547389,Bone,36,Female,Irregular
+6.234916786449664,Brain,46,Male,Calcified
+1.4808498655389934,Bone,70,Female,Dense Tissue
+6.40335535607567,Breast,44,Male,Well-Defined
+8.171859481827429,Bone,46,Male,Well-Defined
+6.372499095372907,Bone,37,Female,Dense Tissue
+2.2098681006176433,Soft Tissue,82,Female,Well-Defined
+6.699204212216756,Soft Tissue,33,Female,Dense Tissue
+2.1574037644307094,Brain,70,Male,Soft Tissue
+2.6577965485300474,Brain,64,Female,Dense Tissue
+7.690820386493176,Brain,56,Male,Soft Tissue
+2.4023951322502506,Brain,64,Female,Dense Tissue
+3.653639547962351,Breast,30,Female,Dense Tissue
+8.58208420942648,Liver,22,Male,Calcified
+4.258022197030082,Liver,73,Male,Dense Tissue
+6.645092323716109,Bone,69,Female,Irregular
+6.96749784917877,Bone,43,Female,Well-Defined
+9.641273319608317,Bone,53,Male,Well-Defined
+5.325377831080257,Soft Tissue,80,Male,Soft Tissue
+5.082214259557151,Soft Tissue,37,Female,Dense Tissue
+6.33273339053399,Bone,42,Female,Soft Tissue
+7.945832705939448,Liver,68,Male,Dense Tissue
+1.7557186767914261,Bone,40,Male,Soft Tissue
+8.428135350795674,Soft Tissue,18,Male,Dense Tissue
+5.077436599679522,Breast,53,Male,Dense Tissue
+3.0751693526371087,Liver,60,Male,Soft Tissue
+2.7093782775876907,Breast,55,Female,Irregular
+7.564523246667322,Liver,79,Female,Calcified
+7.946733553047718,Breast,22,Male,Well-Defined
+2.052488116100859,Breast,84,Male,Irregular
+7.000409984801153,Liver,59,Female,Well-Defined
+6.820105709591493,Brain,56,Male,Calcified
+3.0212684612652896,Bone,38,Male,Irregular
+9.39348138641191,Brain,82,Male,Well-Defined
+3.440206461348776,Breast,69,Female,Irregular
+8.980643411054759,Bone,51,Female,Soft Tissue
+8.041779710489681,Bone,37,Male,Irregular
+2.316516027359241,Brain,82,Female,Dense Tissue
+1.6272567245608587,Breast,66,Female,Soft Tissue
+2.104690316796415,Breast,70,Female,Well-Defined
+5.077650047540577,Breast,54,Female,Dense Tissue
+4.869163064241938,Soft Tissue,47,Female,Irregular
+2.1214700874028147,Liver,67,Female,Dense Tissue
+7.771060710169411,Bone,47,Female,Calcified
+8.880737175086338,Soft Tissue,78,Female,Dense Tissue
+5.182728044302475,Brain,77,Male,Soft Tissue
+4.829497725376918,Brain,40,Male,Dense Tissue
+2.867208952063236,Brain,43,Female,Soft Tissue
+9.076992706104228,Soft Tissue,36,Male,Irregular
+2.619336084173824,Soft Tissue,42,Female,Dense Tissue
+5.341573827434191,Brain,42,Female,Irregular
+8.704589633613857,Bone,60,Female,Calcified
+1.1616680304790905,Breast,65,Female,Soft Tissue
+2.5545033371374144,Bone,76,Male,Well-Defined
+5.462759395824131,Breast,19,Male,Irregular
+6.86720215687331,Liver,60,Female,Calcified
+7.315190878206834,Brain,82,Female,Dense Tissue
+7.929062106334105,Liver,46,Female,Soft Tissue
+1.8271751264891465,Soft Tissue,34,Male,Soft Tissue
+4.565786146208804,Soft Tissue,41,Female,Well-Defined
+1.5534823231809036,Bone,32,Male,Irregular
+5.096809081120012,Bone,79,Male,Calcified
+9.925691692971915,Breast,39,Male,Calcified
+7.491254587570072,Liver,77,Male,Soft Tissue
+7.177988348294284,Brain,35,Male,Dense Tissue
+7.448246150653935,Breast,51,Female,Soft Tissue
+1.1462389932247676,Breast,41,Male,Well-Defined
+7.924065747135943,Breast,19,Male,Dense Tissue
+9.133928923733228,Bone,26,Female,Well-Defined
+6.900394059693495,Soft Tissue,70,Female,Dense Tissue
+5.778529439572335,Brain,23,Male,Well-Defined
+8.281404352461934,Brain,24,Male,Calcified
+6.513647316219087,Bone,66,Female,Dense Tissue
+3.5946498310006123,Breast,41,Male,Soft Tissue
+1.2480561947609035,Soft Tissue,40,Male,Calcified
+6.623325305127315,Breast,62,Female,Well-Defined
+2.9847661323984562,Bone,32,Male,Soft Tissue
+4.453358030826656,Bone,47,Female,Well-Defined
+7.14000568248491,Soft Tissue,77,Male,Soft Tissue
+7.604280535982414,Brain,21,Female,Soft Tissue
+2.615227470184469,Breast,46,Male,Well-Defined
+5.035830236065747,Soft Tissue,77,Female,Soft Tissue
+3.902310066911813,Breast,66,Female,Well-Defined
+2.9879902334146715,Liver,22,Male,Soft Tissue
+8.29673935668709,Breast,84,Female,Soft Tissue
+1.7975539384773445,Brain,56,Male,Calcified
+8.294902041144574,Breast,62,Male,Well-Defined
+3.7692448074483567,Breast,46,Male,Dense Tissue
+1.9036323809951756,Breast,21,Male,Well-Defined
+6.474860752323683,Soft Tissue,58,Female,Irregular
+7.045228885733994,Brain,80,Female,Irregular
+5.439543786577802,Soft Tissue,73,Female,Soft Tissue
+5.0435757618387305,Breast,58,Male,Soft Tissue
+5.761244968797118,Soft Tissue,71,Female,Calcified
+3.665913946782494,Breast,52,Male,Well-Defined
+1.38091912651275,Brain,51,Male,Well-Defined
+6.564386213710172,Soft Tissue,19,Male,Well-Defined
+5.586966474570074,Breast,63,Male,Soft Tissue
+4.840119527889238,Brain,39,Female,Calcified
+8.086582012608865,Brain,35,Female,Dense Tissue
+7.002885570962113,Liver,74,Male,Dense Tissue
+5.374158974225542,Bone,36,Female,Dense Tissue
+8.496063111433335,Breast,59,Female,Irregular
+1.846395597983674,Liver,60,Male,Dense Tissue
+4.574695790950404,Soft Tissue,75,Female,Soft Tissue
+6.101229930673018,Bone,61,Male,Well-Defined
+1.1982824056298294,Brain,50,Male,Well-Defined
+3.70254306606879,Liver,50,Male,Calcified
+4.21668581320204,Breast,43,Female,Irregular
+4.497929519832153,Liver,53,Male,Well-Defined
+9.036736808872675,Breast,77,Male,Calcified
+9.426877459311898,Bone,57,Female,Irregular
+3.7166591964139277,Liver,31,Female,Dense Tissue
+7.522231883616888,Brain,37,Male,Calcified
+7.3734539301536515,Bone,58,Female,Dense Tissue
+8.324976740057984,Bone,47,Male,Well-Defined
+8.857358360708435,Breast,31,Female,Well-Defined
+5.529328531362205,Soft Tissue,25,Female,Calcified
+2.1129273477461403,Soft Tissue,28,Male,Irregular
+9.362149850195426,Breast,58,Male,Calcified
+7.209735689815622,Bone,48,Female,Dense Tissue
+5.430466694014768,Breast,70,Female,Dense Tissue
+9.408642986978398,Breast,82,Female,Well-Defined
+4.831143408378986,Soft Tissue,84,Male,Irregular
+6.677230550593806,Breast,66,Female,Soft Tissue
+5.7479285296238345,Brain,64,Male,Soft Tissue
+9.02857104075757,Breast,39,Female,Soft Tissue
+1.5858292643082406,Liver,30,Male,Well-Defined
+6.024298968417585,Bone,57,Male,Well-Defined
+1.6258095288214598,Brain,78,Female,Soft Tissue
+3.8009951992868745,Liver,18,Male,Irregular
+4.8647087644044085,Liver,65,Male,Soft Tissue
+8.506409989690134,Liver,48,Male,Irregular
+2.1173060311957945,Brain,72,Male,Calcified
+9.793643933977053,Bone,43,Female,Dense Tissue
+2.237623064041064,Liver,44,Male,Dense Tissue
+7.695317595711315,Breast,20,Male,Calcified
+6.232745117692576,Liver,48,Male,Irregular
+8.313490899967485,Liver,62,Female,Dense Tissue
+2.489742280732875,Breast,48,Female,Well-Defined
+7.083691657792859,Brain,50,Male,Calcified
+4.5003391845576814,Breast,77,Female,Well-Defined
+4.078490981526572,Soft Tissue,75,Female,Soft Tissue
+3.8828496132516768,Bone,18,Female,Dense Tissue
+8.616873088803015,Bone,52,Female,Well-Defined
+3.8229310349046086,Bone,43,Female,Calcified
+2.8380410509934553,Liver,65,Male,Soft Tissue
+5.031309302827021,Liver,26,Male,Calcified
+2.7674696089749657,Bone,32,Female,Dense Tissue
+7.270920818796613,Breast,34,Female,Soft Tissue
+1.8527058019632825,Soft Tissue,82,Male,Soft Tissue
+6.01381515270555,Bone,72,Female,Irregular
+3.354547432939812,Soft Tissue,77,Female,Calcified
+8.79928706457536,Breast,31,Male,Calcified
+5.61692729703093,Brain,35,Male,Soft Tissue
+3.0892823001326297,Breast,24,Female,Dense Tissue
+4.7375524168332355,Liver,77,Female,Dense Tissue
+2.550351520594527,Breast,57,Male,Soft Tissue
+8.48483010255078,Breast,75,Male,Calcified
+6.5174830424399826,Soft Tissue,39,Female,Calcified
+3.3290235254279956,Bone,56,Female,Well-Defined
+5.291463848998108,Breast,77,Male,Dense Tissue
+1.5754666305145444,Brain,30,Male,Dense Tissue
+5.428494796900468,Liver,21,Female,Calcified
+5.385515315113433,Bone,31,Female,Calcified
+2.042194211876064,Bone,70,Female,Soft Tissue
+6.585353049813657,Bone,54,Female,Calcified
+7.134287303436174,Liver,36,Male,Well-Defined
+7.721487694887716,Breast,77,Male,Irregular
+3.676017097007206,Soft Tissue,65,Female,Calcified
+6.422358974681599,Breast,35,Female,Soft Tissue
+8.765021002765653,Liver,30,Female,Calcified
+5.3756279716634845,Bone,41,Female,Irregular
+2.338043683131117,Soft Tissue,63,Female,Calcified
+4.138898375622042,Breast,35,Female,Calcified
+5.37656147091555,Breast,23,Male,Well-Defined
+9.627943598907263,Breast,43,Male,Irregular
+3.418002332980842,Liver,43,Female,Calcified
+1.2176976285194145,Bone,79,Male,Irregular
+4.657812760819031,Bone,45,Female,Dense Tissue
+3.148808477610283,Soft Tissue,52,Male,Well-Defined
+3.5041866126477927,Brain,47,Female,Irregular
+2.087846998957463,Soft Tissue,76,Female,Soft Tissue
+4.060806797818698,Liver,63,Female,Irregular
+1.3846041033660197,Bone,77,Male,Calcified
+5.993150249997335,Soft Tissue,57,Male,Soft Tissue
+5.258014269781348,Liver,81,Female,Well-Defined
+8.271168658903768,Breast,66,Female,Soft Tissue
+7.848253538720563,Brain,72,Female,Soft Tissue
+2.335296505251928,Breast,79,Male,Soft Tissue
+5.806933532198957,Soft Tissue,21,Male,Dense Tissue
+4.800636824369527,Soft Tissue,23,Male,Soft Tissue
+3.3651429272545585,Brain,40,Female,Dense Tissue
+9.074499450400705,Brain,80,Female,Irregular
+6.04484290274746,Brain,43,Male,Well-Defined
+1.8222570418367547,Liver,55,Female,Well-Defined
+3.6895567346524336,Brain,83,Male,Soft Tissue
+8.098970833048622,Soft Tissue,24,Male,Irregular
+6.664517028001167,Liver,73,Female,Well-Defined
+3.19232730252582,Bone,79,Male,Soft Tissue
+4.62014562770066,Soft Tissue,74,Male,Irregular
+3.6681295744107247,Breast,33,Female,Calcified
+1.357104372818059,Soft Tissue,44,Male,Soft Tissue
+6.5860193055441005,Breast,25,Male,Dense Tissue
+3.3956439754733414,Bone,75,Male,Calcified
+8.165906035480953,Liver,75,Male,Dense Tissue
+9.720218970022556,Liver,46,Female,Irregular
+5.514723228373013,Soft Tissue,31,Female,Soft Tissue
+3.097452357669158,Breast,29,Female,Dense Tissue
+9.706414255038098,Bone,75,Female,Dense Tissue
+7.393595872815007,Bone,45,Male,Irregular
+7.520810822042837,Brain,66,Male,Well-Defined
+2.030995740952178,Breast,77,Female,Irregular
+2.3251074379029486,Liver,70,Male,Soft Tissue
+2.0378761023292515,Bone,50,Male,Well-Defined
+2.538410949462392,Liver,25,Male,Well-Defined
+3.2316314842640974,Bone,25,Male,Soft Tissue
+2.2522926238116496,Liver,45,Female,Dense Tissue
+7.40792173250903,Soft Tissue,29,Male,Calcified
+5.037653365665279,Bone,34,Female,Soft Tissue
+2.2539545665849516,Bone,63,Male,Dense Tissue
+4.5148804028733345,Bone,72,Male,Soft Tissue
+8.731819316535553,Breast,82,Female,Irregular
+4.680830010141282,Breast,58,Female,Dense Tissue
+8.223737121669155,Liver,45,Female,Calcified
+2.1028102831383144,Bone,81,Male,Dense Tissue
+6.066669571855382,Brain,58,Female,Soft Tissue
+1.3267533246441592,Breast,45,Female,Well-Defined
+5.546316467649947,Liver,43,Male,Irregular
+4.192604240863078,Soft Tissue,47,Male,Soft Tissue
+5.998023288465995,Bone,24,Male,Well-Defined
+8.888574474500853,Soft Tissue,23,Male,Well-Defined
+6.2505018087186155,Breast,25,Female,Irregular
+5.863610338240621,Bone,22,Male,Irregular
+5.444438865789758,Bone,27,Male,Calcified
+9.175702917370947,Liver,75,Female,Calcified
+6.819079826444189,Breast,33,Male,Dense Tissue
+3.608057015470724,Breast,82,Female,Calcified
+7.5349818961209305,Soft Tissue,76,Female,Dense Tissue
+8.226666173468727,Brain,33,Male,Calcified
+1.0612055786111043,Liver,50,Male,Calcified
+8.719729243026812,Bone,18,Male,Dense Tissue
+3.1397697375048965,Soft Tissue,77,Male,Irregular
+5.979231875990264,Soft Tissue,63,Female,Well-Defined
+4.8598646243533,Bone,67,Male,Calcified
+2.6767192064214504,Bone,53,Female,Dense Tissue
+3.228877742261762,Breast,45,Male,Soft Tissue
+8.354275546627242,Liver,20,Male,Calcified
+7.311275985535097,Bone,26,Male,Soft Tissue
+6.392507593566899,Liver,83,Female,Dense Tissue
+4.02232130786059,Breast,38,Female,Dense Tissue
+5.569330707625407,Breast,23,Female,Well-Defined
+5.562338502351219,Breast,51,Male,Soft Tissue
+7.991763226977184,Liver,32,Female,Soft Tissue
+6.472320564727044,Liver,24,Male,Calcified
+1.6757612993573563,Breast,47,Female,Dense Tissue
+9.882203171296279,Soft Tissue,29,Female,Soft Tissue
+9.390596425346764,Bone,33,Male,Well-Defined
+4.391496476567609,Breast,82,Female,Well-Defined
+7.71654927746739,Brain,24,Female,Dense Tissue
+1.2881507006523165,Brain,55,Male,Dense Tissue
+6.258207694144956,Liver,22,Male,Dense Tissue
+9.178982893625044,Soft Tissue,53,Male,Soft Tissue
+9.194735570600217,Soft Tissue,51,Male,Soft Tissue
+4.472535722504204,Soft Tissue,77,Female,Dense Tissue
+2.899719364966002,Bone,51,Female,Well-Defined
+3.2816231628786623,Brain,59,Male,Calcified
+6.230853523555413,Liver,72,Female,Dense Tissue
+3.051144551376727,Brain,72,Male,Dense Tissue
+2.553597768899116,Bone,79,Female,Calcified
+7.5814207662926965,Bone,33,Male,Well-Defined
+9.705425325310513,Breast,70,Male,Irregular
+7.787192540279805,Bone,80,Female,Well-Defined
+6.423354866216514,Brain,67,Male,Irregular
+1.1479465972245237,Liver,52,Female,Soft Tissue
+4.028237322786136,Bone,27,Female,Well-Defined
+3.084146006000987,Breast,53,Male,Irregular
+8.512269654444466,Soft Tissue,69,Female,Calcified
+8.58796806285315,Soft Tissue,58,Female,Soft Tissue
+1.314496337153113,Breast,25,Male,Calcified
+5.982198236641635,Brain,67,Female,Dense Tissue
+9.948373218190833,Liver,75,Male,Calcified
+9.5043993129159,Breast,56,Female,Soft Tissue
+5.981543650590386,Breast,72,Female,Calcified
+8.431318885771738,Liver,28,Male,Irregular
+3.8898074318356386,Breast,82,Male,Well-Defined
+6.6139547435405195,Brain,62,Female,Calcified
+4.244302794551739,Bone,82,Male,Soft Tissue
+6.271883056391401,Bone,35,Male,Soft Tissue
+3.909357324943244,Bone,35,Female,Dense Tissue
+3.589289846681462,Liver,65,Female,Well-Defined
+1.1405238288073625,Brain,56,Male,Calcified
+2.0961394715795243,Brain,82,Female,Well-Defined
+5.693636297804031,Liver,57,Male,Soft Tissue
+3.117838374046301,Liver,53,Male,Calcified
+2.8271751649921266,Bone,73,Female,Irregular
+2.292800944556995,Liver,55,Female,Soft Tissue
+6.778893813973453,Brain,39,Male,Dense Tissue
+6.153004946593036,Brain,70,Male,Soft Tissue
+4.963198411870968,Soft Tissue,36,Female,Calcified
+8.1491284409752,Bone,69,Male,Well-Defined
+9.568766746297602,Bone,35,Female,Well-Defined
+6.85828754261391,Soft Tissue,19,Male,Calcified
+2.5602502936280955,Bone,23,Female,Well-Defined
+6.185969963701245,Breast,42,Male,Well-Defined
+9.359774240812328,Soft Tissue,35,Male,Well-Defined
+8.196926339586929,Breast,77,Female,Dense Tissue
+8.37425395525113,Bone,72,Male,Irregular
+4.593712819516955,Breast,47,Male,Calcified
+7.914577063456892,Breast,81,Female,Irregular
+9.672311358057064,Bone,31,Male,Dense Tissue
+5.849051205912007,Soft Tissue,27,Female,Dense Tissue
+8.221171149318742,Soft Tissue,82,Male,Irregular
+7.507238192962655,Liver,48,Male,Irregular
+2.391122338582013,Brain,79,Female,Irregular
+9.347274080473465,Soft Tissue,29,Male,Calcified
+4.684867988889311,Breast,66,Male,Irregular
+9.29240984485544,Breast,81,Male,Soft Tissue
+2.423721290985827,Brain,29,Male,Well-Defined
+4.630054390888385,Bone,83,Female,Soft Tissue
+4.476516867253235,Breast,78,Male,Irregular
+2.379207477816583,Breast,78,Male,Dense Tissue
+3.644992833509216,Soft Tissue,61,Male,Dense Tissue
+3.9981599774508347,Soft Tissue,75,Female,Dense Tissue
+1.831275937784822,Breast,54,Female,Well-Defined
+5.135100153773596,Liver,74,Female,Irregular
+4.426150778110063,Brain,72,Female,Soft Tissue
+8.2707733008321,Soft Tissue,25,Female,Calcified
+9.27586493296669,Bone,30,Female,Calcified
+7.9752483882827505,Soft Tissue,39,Female,Irregular
+7.742917479915304,Soft Tissue,49,Female,Dense Tissue
+6.901560537124386,Soft Tissue,22,Male,Well-Defined
+5.4515434035408195,Soft Tissue,67,Female,Well-Defined
+7.018812052914377,Brain,27,Male,Well-Defined
+3.7299741250427445,Breast,77,Male,Well-Defined
+5.911885354411083,Breast,56,Male,Irregular
+4.840145783197611,Brain,58,Male,Well-Defined
+5.446717297190524,Bone,75,Female,Irregular
+7.183313545143565,Liver,68,Female,Calcified
+9.234343660144605,Breast,19,Male,Soft Tissue
+3.7457964209470056,Breast,57,Male,Irregular
+6.17991446066987,Breast,39,Male,Calcified
+6.038576586742122,Brain,20,Male,Soft Tissue
+5.520944540450488,Soft Tissue,51,Female,Well-Defined
+4.874384528974397,Liver,80,Male,Soft Tissue
+8.227559124875345,Soft Tissue,35,Male,Well-Defined
+8.555657515982137,Brain,50,Male,Soft Tissue
+4.99314197889408,Liver,68,Female,Dense Tissue
+1.0653161997576734,Soft Tissue,64,Female,Soft Tissue
+5.031875176216125,Liver,35,Male,Soft Tissue
+3.649752570589831,Liver,22,Female,Calcified
+4.246108782605161,Soft Tissue,42,Female,Irregular
+4.624161960783114,Soft Tissue,68,Male,Soft Tissue
+1.5938852116795768,Breast,68,Female,Soft Tissue
+5.538090210421983,Soft Tissue,63,Male,Dense Tissue
+6.657514924046587,Bone,21,Female,Calcified
+6.592516396860496,Breast,27,Male,Soft Tissue
+1.1146784811150212,Bone,67,Male,Soft Tissue
+6.326035960603244,Breast,63,Male,Well-Defined
+5.023957825979812,Brain,42,Female,Well-Defined
+4.440702547862128,Bone,25,Female,Calcified
+9.532589196239313,Soft Tissue,37,Male,Soft Tissue
+1.7411624353213568,Bone,47,Male,Dense Tissue
+7.735413318402119,Liver,23,Female,Dense Tissue
+7.3014014792145,Bone,20,Male,Calcified
+5.7915692304389665,Breast,40,Male,Soft Tissue
+8.946951195502882,Soft Tissue,84,Male,Dense Tissue
+3.980608764903393,Liver,35,Male,Soft Tissue
+7.697244221263458,Bone,75,Female,Dense Tissue
+9.785885429850332,Brain,19,Male,Dense Tissue
+9.082996848178174,Liver,73,Male,Irregular
+6.418921050850715,Soft Tissue,60,Female,Well-Defined
+8.799708157847263,Liver,64,Female,Dense Tissue
+7.351391340062086,Brain,44,Female,Well-Defined
+1.110460197403176,Bone,56,Male,Well-Defined
+6.940852617727437,Liver,67,Male,Well-Defined
+6.448669524598641,Liver,32,Female,Calcified
+7.058508779573489,Breast,37,Male,Soft Tissue
+1.8512918246487295,Liver,77,Female,Irregular
+3.113890484007226,Bone,48,Male,Calcified
+4.150970066500483,Breast,42,Female,Dense Tissue
+7.71756413176184,Liver,56,Male,Soft Tissue
+7.869954795006709,Bone,43,Male,Well-Defined
+7.781785313211589,Soft Tissue,81,Male,Dense Tissue
+2.155809645292077,Bone,32,Female,Irregular
+8.426615729783292,Breast,59,Male,Calcified
+7.360146795968394,Bone,55,Female,Calcified
+1.6422013891511926,Bone,35,Male,Dense Tissue
+3.3101402418382286,Breast,35,Male,Calcified
+3.4292336125676712,Breast,75,Male,Well-Defined
+7.327366048222944,Brain,35,Female,Irregular
+7.425025336340828,Liver,18,Female,Calcified
+5.034749283879134,Soft Tissue,80,Female,Dense Tissue
+8.552787543714757,Breast,78,Female,Soft Tissue
+2.8223595126898378,Liver,74,Male,Soft Tissue
+7.089735117997268,Bone,44,Female,Calcified
+1.2534825665157867,Bone,58,Male,Dense Tissue
+9.79131371856689,Soft Tissue,72,Female,Irregular
+4.504206392415467,Breast,20,Female,Soft Tissue
+2.93267046687872,Bone,30,Male,Well-Defined
+9.285766242790013,Liver,33,Male,Dense Tissue
+3.6429316118761816,Bone,45,Male,Well-Defined
+4.58453128184991,Breast,60,Female,Soft Tissue
+3.1413158865138566,Brain,83,Female,Calcified
+5.0243864691443,Brain,44,Female,Irregular
+5.852155070100202,Breast,71,Male,Dense Tissue
+9.181285103889747,Liver,58,Male,Well-Defined
+9.053552520387777,Brain,79,Male,Dense Tissue
+9.18420795416707,Soft Tissue,46,Female,Calcified
+5.47917189776814,Brain,45,Male,Dense Tissue
+5.4377207609338205,Liver,58,Female,Well-Defined
+9.406247290484226,Soft Tissue,74,Female,Dense Tissue
+2.7213137944803547,Breast,50,Female,Calcified
+6.830063227753824,Breast,22,Male,Calcified
+6.506297806716672,Brain,42,Female,Irregular
+1.8260114417156925,Soft Tissue,63,Male,Well-Defined
+8.875803013188323,Breast,41,Female,Dense Tissue
+9.1082950003841,Bone,70,Female,Soft Tissue
+4.841294358866582,Liver,52,Male,Well-Defined
+2.9063888421824022,Bone,46,Male,Calcified
+3.0284156717234803,Liver,22,Male,Calcified
+2.9485714139954275,Soft Tissue,33,Female,Calcified
+2.6688237254971314,Bone,74,Female,Irregular
+2.426606184595398,Bone,22,Male,Irregular
+5.881169804085067,Liver,31,Female,Well-Defined
+9.589963462666196,Soft Tissue,57,Female,Calcified
+8.074853386330823,Breast,60,Male,Dense Tissue
+6.1742691483792935,Bone,66,Female,Calcified
+5.722033632627084,Liver,52,Female,Dense Tissue
+2.0728593673962408,Breast,59,Female,Irregular
+5.615377356497031,Soft Tissue,75,Male,Well-Defined
+3.702901615534024,Bone,73,Female,Calcified
+2.399025808077873,Bone,51,Male,Irregular
+8.096287808548757,Bone,53,Male,Dense Tissue
+7.449467296157506,Breast,57,Female,Irregular
+6.918054468208071,Brain,26,Female,Soft Tissue
+8.40408965811218,Liver,49,Female,Well-Defined
+8.228923612753782,Liver,34,Male,Well-Defined
+2.770093028579499,Brain,73,Male,Well-Defined
+8.79714138173792,Brain,59,Male,Soft Tissue
+6.575055329438891,Breast,60,Female,Irregular
+5.168456060193079,Brain,41,Female,Dense Tissue
+6.989212989039519,Soft Tissue,38,Male,Irregular
+1.3007172871365147,Bone,65,Male,Dense Tissue
+8.815126570430738,Liver,80,Female,Calcified
+8.268254080744466,Breast,74,Female,Soft Tissue
+4.6276558944256205,Soft Tissue,50,Female,Soft Tissue
+1.0007433391022815,Bone,27,Female,Calcified
+3.730013257677467,Brain,43,Female,Dense Tissue
+9.385972025437244,Breast,34,Male,Well-Defined
+5.0279370850249,Liver,68,Male,Calcified
+2.8130483217158746,Bone,77,Male,Irregular
+6.042084863929168,Liver,33,Female,Soft Tissue
+3.9900386251027937,Soft Tissue,64,Male,Irregular
+7.064473067361049,Bone,63,Female,Dense Tissue
+3.339970635656819,Bone,47,Male,Irregular
+1.8481251038233006,Breast,39,Female,Soft Tissue
+7.882981755121011,Breast,57,Female,Dense Tissue
+3.5862787031759495,Bone,49,Female,Irregular
+4.107314357282168,Liver,38,Male,Well-Defined
+5.755393922001135,Soft Tissue,35,Male,Dense Tissue
+2.732939232007649,Brain,78,Female,Calcified
+7.779925236083053,Soft Tissue,75,Female,Irregular
+7.690296017032333,Brain,42,Female,Calcified
+6.666562242869357,Brain,41,Male,Soft Tissue
+8.76552829161853,Liver,24,Female,Well-Defined
+7.716074346677053,Bone,45,Male,Dense Tissue
+4.613587964403797,Brain,19,Male,Irregular
+7.880601044021671,Liver,48,Male,Calcified
+9.314887965288827,Brain,46,Male,Soft Tissue
+9.080264709003552,Soft Tissue,59,Male,Dense Tissue
+6.05811495153372,Soft Tissue,58,Male,Irregular
+4.637977464324853,Bone,25,Male,Dense Tissue
+9.65132113172055,Liver,74,Male,Well-Defined
+7.614796217069952,Liver,67,Male,Irregular
+3.125508787618185,Bone,60,Female,Soft Tissue
+7.452773407178038,Breast,42,Female,Soft Tissue
+4.268343092971701,Brain,37,Female,Irregular
+8.721812019837675,Breast,56,Male,Dense Tissue
+5.1135585026537385,Breast,28,Male,Calcified
+2.5634105039474324,Bone,72,Male,Soft Tissue
+6.160191720162448,Liver,31,Male,Dense Tissue
+4.746424849608456,Breast,79,Male,Irregular
+5.327645285627261,Breast,55,Male,Calcified
+4.158980558210716,Breast,39,Male,Soft Tissue
+6.706577169780525,Liver,66,Male,Soft Tissue
+1.4379177481438816,Liver,67,Female,Dense Tissue
+8.77744508713828,Soft Tissue,36,Female,Soft Tissue
+7.928424378596552,Brain,53,Female,Calcified
+3.3539152242879235,Soft Tissue,83,Male,Irregular
+5.663520898740653,Brain,20,Male,Calcified
+3.546074063868471,Liver,38,Female,Soft Tissue
+8.514648721292584,Breast,77,Female,Well-Defined
+4.836248851605259,Breast,61,Female,Calcified
+7.602524218665468,Breast,32,Female,Soft Tissue
+2.850880509194139,Liver,26,Male,Calcified
+2.297099688056794,Soft Tissue,48,Male,Irregular
+5.953934894223169,Breast,42,Female,Well-Defined
+5.792563204569735,Soft Tissue,31,Female,Well-Defined
+4.782052810192328,Liver,42,Female,Calcified
+5.864733490559875,Breast,81,Male,Well-Defined
+4.992511639545846,Breast,31,Male,Irregular
+7.163726197110787,Soft Tissue,37,Female,Well-Defined
+1.5884845693006993,Breast,38,Female,Dense Tissue
+1.807620030403546,Liver,32,Female,Well-Defined
+9.436230381778365,Bone,28,Female,Soft Tissue
+8.364050251573463,Liver,67,Male,Calcified
+4.122955032657208,Liver,83,Female,Well-Defined
+7.234453563129096,Liver,46,Male,Well-Defined
+4.753131396121002,Bone,18,Female,Soft Tissue
+8.04429574144848,Soft Tissue,24,Female,Well-Defined
+1.7006776752271349,Bone,47,Male,Soft Tissue
+1.21713970012595,Brain,61,Male,Soft Tissue
+7.054674291481448,Breast,72,Male,Well-Defined
+4.9806791704792275,Brain,29,Female,Calcified
+1.3480399290010863,Liver,68,Male,Irregular
+2.1538065214496953,Brain,44,Male,Soft Tissue
+2.69412934794021,Brain,25,Male,Well-Defined
+9.337467761931217,Brain,73,Female,Well-Defined
+6.128637176190333,Breast,76,Male,Well-Defined
+5.103803180597147,Bone,26,Female,Calcified
+5.473276608004435,Liver,60,Male,Well-Defined
+2.2147400417888345,Breast,80,Female,Calcified
+8.618504423948306,Liver,29,Female,Soft Tissue
+1.603766072791754,Bone,38,Male,Well-Defined
+2.868674248503445,Soft Tissue,28,Female,Dense Tissue
+3.7184372997492514,Soft Tissue,60,Female,Well-Defined
+4.452879696511773,Bone,59,Female,Irregular
+6.418986839105782,Soft Tissue,55,Male,Soft Tissue
+9.692053944531096,Liver,41,Female,Irregular
+1.2805119978857848,Brain,53,Male,Well-Defined
+7.061595864400263,Soft Tissue,56,Male,Soft Tissue
+6.042254867654929,Soft Tissue,50,Male,Calcified
+8.220484101663025,Liver,23,Female,Calcified
+7.8281776983321585,Liver,57,Male,Soft Tissue
+6.848880804548736,Breast,23,Female,Irregular
+7.81238186160574,Breast,48,Male,Soft Tissue
+4.596552422774839,Liver,51,Female,Dense Tissue
+2.2564362693466293,Bone,26,Male,Well-Defined
+1.4647856965659662,Bone,24,Male,Calcified
+5.997698373160954,Breast,76,Female,Soft Tissue
+2.579418875744233,Liver,80,Female,Irregular
+3.006081653314465,Breast,82,Female,Dense Tissue
+3.59009786786292,Brain,72,Female,Dense Tissue
+9.52618557593014,Liver,46,Male,Calcified
+7.56598096840797,Breast,23,Female,Soft Tissue
+6.895962044132362,Brain,41,Male,Dense Tissue
+1.738249662200435,Brain,63,Female,Calcified
+5.8414903100401965,Soft Tissue,52,Male,Well-Defined
+4.380563079857597,Breast,48,Male,Calcified
+8.321989643179137,Bone,72,Female,Soft Tissue
+1.0531391642092978,Brain,46,Male,Irregular
+4.403450862598788,Liver,50,Female,Irregular
+5.910573186479689,Brain,58,Female,Irregular
+1.7523204689736365,Breast,29,Male,Well-Defined
+2.049470237029415,Brain,69,Male,Well-Defined
+8.355143629301399,Soft Tissue,77,Male,Well-Defined
+6.5486615677820055,Breast,30,Female,Dense Tissue
+4.2031499632118345,Breast,26,Female,Irregular
+8.095441437576689,Brain,23,Male,Irregular
+3.7545274530647363,Breast,35,Female,Dense Tissue
+5.354914076978682,Bone,23,Male,Dense Tissue
+3.3789820229433825,Bone,65,Female,Soft Tissue
+9.71142803315352,Breast,77,Male,Soft Tissue
+1.2698052278769403,Liver,65,Female,Soft Tissue
+9.71665584727858,Breast,61,Male,Well-Defined
+3.436174777394031,Brain,62,Female,Calcified
+4.025965940113351,Soft Tissue,57,Female,Dense Tissue
+3.7577053357122536,Liver,81,Female,Dense Tissue
+6.931399401242311,Brain,31,Female,Dense Tissue
+2.3429693211866556,Liver,37,Female,Soft Tissue
+2.432504499683381,Liver,32,Male,Dense Tissue
+1.8081948371737533,Breast,82,Female,Soft Tissue
+4.007596901475929,Soft Tissue,32,Male,Irregular
+5.546553173523259,Bone,18,Male,Well-Defined
+3.706056386042122,Soft Tissue,21,Male,Well-Defined
+1.273225883414441,Liver,39,Female,Dense Tissue
+6.086419119480067,Liver,47,Female,Calcified
+6.307358191943912,Bone,19,Male,Well-Defined
+5.4019251656738545,Breast,61,Male,Irregular
+3.538035607101876,Breast,57,Male,Calcified
+1.7886667397540248,Brain,79,Male,Irregular
+3.7019749579630865,Bone,22,Male,Soft Tissue
+1.137493709635931,Soft Tissue,79,Male,Soft Tissue
+1.2262464429188398,Liver,40,Male,Well-Defined
+9.975762025056264,Liver,28,Male,Irregular
+3.017825088498812,Bone,38,Female,Dense Tissue
+1.8410582987425963,Soft Tissue,21,Female,Dense Tissue
+2.1309668614237682,Breast,48,Female,Irregular
+8.236917623754742,Bone,76,Female,Calcified
+4.001839398713049,Brain,82,Male,Well-Defined
+2.813437206740808,Soft Tissue,35,Female,Soft Tissue
+8.536416045831118,Bone,28,Female,Dense Tissue
+6.017609570554525,Soft Tissue,32,Male,Soft Tissue
+1.8822009664170765,Bone,21,Male,Irregular
+3.9719052556742938,Liver,59,Female,Dense Tissue
+8.543708079913543,Breast,77,Male,Irregular
+7.901161044372693,Brain,45,Female,Calcified
+5.5549837394629344,Breast,46,Female,Irregular
+7.383402777310168,Brain,24,Female,Calcified
+7.8768379768360175,Brain,29,Male,Soft Tissue
+7.270236515709247,Breast,47,Female,Soft Tissue
+4.72705041324136,Liver,37,Female,Irregular
+7.095898863819793,Breast,72,Female,Soft Tissue
+8.515765968530157,Breast,63,Female,Soft Tissue
+8.666947987466017,Liver,82,Female,Calcified
+7.0691040524498705,Soft Tissue,55,Female,Calcified
+6.284918073326756,Soft Tissue,29,Male,Dense Tissue
+1.4612974540530002,Liver,30,Female,Calcified
+4.073732214910958,Brain,74,Female,Calcified
+7.045588501340342,Liver,60,Male,Soft Tissue
+9.966473347313043,Bone,51,Male,Well-Defined
+2.283014116415896,Breast,26,Male,Calcified
+2.003226536218368,Bone,71,Male,Irregular
+1.981747970087187,Soft Tissue,29,Female,Irregular
+8.048282436280536,Soft Tissue,64,Female,Calcified
+4.507232401119512,Breast,82,Male,Calcified
+7.144171971158044,Brain,73,Male,Irregular
+2.0398095937439726,Liver,36,Female,Calcified
+8.949890181382306,Bone,34,Male,Irregular
+9.589416058084524,Bone,24,Male,Calcified
+2.598745914323717,Brain,52,Female,Well-Defined
+5.310538269535876,Breast,41,Male,Calcified
+9.099091801263917,Brain,40,Male,Soft Tissue
+7.9702550249681,Soft Tissue,43,Female,Soft Tissue
+4.764264768018798,Liver,27,Female,Soft Tissue
+8.95370711845846,Brain,50,Female,Irregular
+8.146078382303434,Liver,51,Male,Calcified
+4.67487761854998,Liver,84,Female,Well-Defined
+5.43325302366626,Breast,77,Female,Irregular
+9.366523678420748,Brain,50,Male,Dense Tissue
+9.84539730714653,Liver,41,Male,Calcified
+9.97218149487665,Bone,37,Female,Irregular
+6.476724729539317,Breast,51,Female,Dense Tissue
+2.977488495962068,Brain,32,Female,Well-Defined
+4.793396591779859,Liver,21,Male,Calcified
+7.318706439839523,Soft Tissue,58,Male,Well-Defined
+8.170273947444636,Liver,56,Female,Well-Defined
+7.845534430834702,Bone,47,Female,Well-Defined
+5.2890089876542845,Breast,73,Male,Soft Tissue
+1.428900613338452,Breast,72,Female,Well-Defined
+9.733639485933647,Bone,73,Male,Soft Tissue
+6.765671676427776,Breast,35,Male,Well-Defined
+3.426506588537152,Soft Tissue,46,Female,Irregular
+4.25586105422766,Breast,56,Female,Well-Defined
+3.3192530670222173,Liver,69,Male,Soft Tissue
+5.3336916961430285,Liver,62,Male,Well-Defined
+2.8535722605542486,Breast,62,Male,Dense Tissue
+7.8098869546314145,Bone,44,Female,Soft Tissue
+3.8513049121832306,Liver,32,Female,Soft Tissue
+6.725301347448709,Brain,68,Male,Irregular
+8.272665178943367,Brain,62,Female,Calcified
+6.1234089891947,Soft Tissue,74,Female,Irregular
+1.0857022083699377,Soft Tissue,19,Female,Well-Defined
+9.830127503296874,Soft Tissue,83,Female,Irregular
+6.770710794641532,Liver,36,Male,Well-Defined
+5.663409813240952,Breast,52,Female,Dense Tissue
+7.980189492631021,Soft Tissue,48,Female,Soft Tissue
+9.792368388819312,Liver,34,Female,Irregular
+4.517385231548332,Bone,47,Female,Calcified
+3.8904771167036536,Liver,43,Female,Irregular
+7.449485379478441,Breast,36,Male,Well-Defined
+7.572496500911636,Soft Tissue,75,Female,Calcified
+7.940001886800409,Bone,84,Female,Irregular
+8.61170465091708,Liver,22,Male,Irregular
+2.902651796373081,Bone,27,Female,Well-Defined
+6.831352218282255,Liver,70,Female,Dense Tissue
+5.429695661119932,Liver,84,Male,Dense Tissue
+4.105353710774282,Soft Tissue,77,Male,Dense Tissue
+3.381053481364212,Breast,81,Male,Soft Tissue
+1.0591434819195253,Liver,67,Male,Well-Defined
+7.072747260736869,Bone,45,Female,Irregular
+5.639112138498375,Breast,20,Male,Calcified
+2.1891729527918407,Bone,42,Female,Irregular
+9.958426546010113,Brain,23,Male,Dense Tissue
+5.4932368019101405,Breast,73,Female,Calcified
+2.3450484658180493,Bone,60,Female,Calcified
+3.0594776732644196,Liver,38,Male,Soft Tissue
+1.4386749029525592,Soft Tissue,19,Male,Well-Defined
+6.824495806440902,Brain,52,Male,Soft Tissue
+4.166417152340958,Breast,63,Male,Calcified
+7.553432799910425,Breast,79,Female,Soft Tissue
+1.4711704320480965,Bone,82,Female,Soft Tissue
+1.7786359098146356,Bone,25,Male,Irregular
+9.904120076464704,Liver,35,Male,Dense Tissue
+5.660913298442267,Liver,36,Male,Soft Tissue
+2.8784460892342936,Breast,81,Male,Irregular
+1.1649582359413153,Bone,60,Male,Irregular
+4.603073391823694,Breast,32,Female,Irregular
+9.377631147790884,Soft Tissue,38,Female,Calcified
+6.010324554287196,Breast,76,Male,Well-Defined
+3.81931465307475,Liver,70,Male,Soft Tissue
+6.013410754290067,Bone,68,Male,Well-Defined
+3.726237697098744,Soft Tissue,36,Female,Well-Defined
+1.233654540002194,Brain,47,Male,Irregular
+5.173214989346936,Liver,69,Male,Irregular
+9.293445847874077,Bone,63,Male,Calcified
+6.750963388105406,Bone,49,Male,Calcified
+1.959078993159744,Brain,66,Male,Dense Tissue
+8.44124075322722,Breast,44,Male,Irregular
+8.197908914266495,Soft Tissue,28,Male,Irregular
+3.0906434932924354,Brain,26,Female,Well-Defined
+3.300788973680498,Breast,44,Male,Irregular
+7.5320979005014,Brain,45,Male,Dense Tissue
+1.843963585218985,Soft Tissue,59,Male,Irregular
+6.502656966469545,Soft Tissue,50,Male,Soft Tissue
+5.141887270210636,Bone,64,Male,Irregular
+5.793518352887143,Soft Tissue,19,Male,Well-Defined
+7.182032282494883,Bone,80,Female,Calcified
+7.36395202511417,Liver,44,Female,Calcified
+1.8105353709605805,Bone,35,Female,Calcified
+7.7318129216854805,Bone,74,Female,Dense Tissue
+9.45861022876822,Breast,74,Male,Dense Tissue
+9.820228901084972,Breast,56,Female,Soft Tissue
+3.8862393669265476,Bone,38,Male,Irregular
+1.333066482920522,Brain,51,Male,Well-Defined
+8.455737753486382,Liver,57,Female,Soft Tissue
+8.08337122984527,Breast,78,Male,Dense Tissue
+8.944340368133073,Breast,34,Male,Soft Tissue
+2.8826799857088923,Liver,33,Female,Well-Defined
+7.705299636611546,Breast,52,Male,Irregular
+2.301992753183118,Liver,54,Male,Calcified
+5.6900226132103455,Liver,63,Male,Well-Defined
+8.997625633443093,Liver,41,Female,Irregular
+2.741113544006527,Liver,61,Female,Irregular
+9.94724483279327,Liver,74,Male,Well-Defined
+7.095097241676826,Bone,37,Male,Irregular
+3.7685964414176762,Breast,31,Female,Calcified
+6.2669025151380815,Bone,79,Female,Well-Defined
+4.901312154162932,Liver,65,Female,Irregular
+1.258890815973841,Bone,63,Male,Calcified
+9.630012899221127,Brain,72,Female,Well-Defined
+5.306832594350743,Breast,33,Male,Well-Defined
+8.134834644431555,Bone,68,Male,Dense Tissue
+5.639075262938928,Breast,54,Male,Well-Defined
+8.961401883929021,Brain,19,Female,Well-Defined
+7.541375294897998,Bone,84,Female,Dense Tissue
+6.201568769519214,Soft Tissue,43,Female,Dense Tissue
+9.002886705725953,Liver,59,Female,Calcified
+7.1639381048302155,Brain,77,Female,Soft Tissue
+9.880557159708314,Breast,22,Female,Soft Tissue
+8.556708910700811,Brain,80,Male,Well-Defined
+5.065737053222233,Soft Tissue,75,Male,Irregular
+7.3121605646120225,Soft Tissue,21,Male,Dense Tissue
+6.05753731703299,Bone,59,Male,Calcified
+6.300169497734537,Breast,57,Male,Irregular
+4.650941143084273,Bone,20,Female,Dense Tissue
+5.335444178446611,Bone,24,Female,Irregular
+1.0941948572206903,Brain,84,Male,Irregular
+7.17452577599746,Soft Tissue,27,Female,Irregular
+8.139423996635038,Breast,71,Female,Calcified
+5.715776970579576,Breast,35,Female,Well-Defined
+6.111177234663608,Soft Tissue,50,Male,Calcified
+6.540679636019168,Soft Tissue,26,Male,Soft Tissue
+3.7891404306875467,Breast,78,Female,Dense Tissue
+2.525002213920895,Soft Tissue,41,Male,Dense Tissue
+9.595001843769078,Bone,34,Male,Dense Tissue
+5.096170404047673,Soft Tissue,53,Female,Dense Tissue
+4.282341155616551,Soft Tissue,40,Female,Soft Tissue
+3.825722810380249,Liver,66,Female,Well-Defined
+3.6684019945838635,Bone,76,Male,Calcified
+2.254809464042388,Bone,63,Female,Well-Defined
+6.9358715274567455,Bone,38,Female,Well-Defined
+6.070168953617356,Breast,46,Female,Irregular
+8.69998788065809,Soft Tissue,37,Male,Irregular
+3.3586815345013035,Soft Tissue,68,Male,Irregular
+6.665795772914084,Brain,46,Female,Irregular
+5.434737052133149,Bone,25,Male,Soft Tissue
+1.2861015516469647,Soft Tissue,26,Male,Calcified
+6.6028553798853,Bone,53,Male,Irregular
+6.3471421017258045,Soft Tissue,55,Male,Calcified
+2.063633877487048,Brain,38,Male,Soft Tissue
+5.937530577097137,Breast,21,Male,Irregular
+6.641584007452021,Bone,67,Male,Irregular
+6.041004523673476,Soft Tissue,72,Male,Dense Tissue
+5.402680812831298,Soft Tissue,75,Male,Well-Defined
+1.9315270501525093,Liver,64,Female,Calcified
+2.6023201375266996,Liver,49,Male,Dense Tissue
+7.770549881774277,Liver,60,Male,Soft Tissue
+6.024269038531385,Brain,40,Female,Irregular
+9.06975896807258,Breast,40,Male,Calcified
+6.0085228376180675,Liver,46,Female,Soft Tissue
+4.673731175157839,Liver,26,Female,Dense Tissue
+7.654120988338817,Soft Tissue,58,Male,Irregular
+8.544771816281322,Liver,71,Female,Soft Tissue
+9.530784400669546,Liver,68,Male,Well-Defined
+8.260547800238948,Breast,72,Male,Calcified
+3.5043380580287646,Breast,81,Male,Well-Defined
+7.001575913855838,Liver,50,Male,Calcified
+5.868285853300395,Soft Tissue,66,Female,Dense Tissue
+6.681801729244561,Liver,74,Male,Calcified
+1.1216703633067804,Brain,18,Male,Dense Tissue
+2.046788720453106,Soft Tissue,33,Male,Well-Defined
+4.986243820523001,Brain,35,Male,Irregular
+8.464146517462583,Bone,55,Female,Soft Tissue
+7.409635837714098,Brain,21,Male,Irregular
+1.1092889637232441,Soft Tissue,76,Female,Irregular
+1.166550621825531,Liver,47,Male,Soft Tissue
+1.3887780186919214,Liver,71,Female,Dense Tissue
+2.736270849192911,Liver,49,Male,Dense Tissue
+5.234598557356756,Soft Tissue,79,Male,Dense Tissue
+3.153879696252086,Soft Tissue,55,Female,Well-Defined
+2.9732390280600898,Bone,39,Male,Irregular
+6.260176827403592,Soft Tissue,52,Male,Well-Defined
+1.521056148567908,Breast,70,Female,Soft Tissue
+9.63364470029447,Bone,61,Female,Calcified
+9.861809209953154,Bone,19,Male,Calcified
+2.7894134350214395,Breast,58,Female,Calcified
+6.818544015863735,Breast,84,Female,Dense Tissue
+4.611011140020911,Breast,78,Male,Soft Tissue
+6.4213085969135175,Soft Tissue,31,Female,Soft Tissue
+1.018881353607345,Soft Tissue,74,Female,Calcified
+6.31856429192946,Liver,29,Female,Dense Tissue
+9.603768471142272,Bone,22,Male,Well-Defined
+7.423406697115428,Brain,34,Male,Irregular
+1.3371274326938138,Brain,35,Female,Soft Tissue
+8.608345211189972,Bone,79,Male,Soft Tissue
+4.840805782692877,Brain,72,Male,Well-Defined
+1.1399404717234267,Soft Tissue,54,Female,Soft Tissue
+6.675661872270258,Bone,57,Male,Irregular
+4.065080244978617,Breast,65,Female,Irregular
+5.989225331041103,Breast,36,Male,Dense Tissue
+1.3447379212310921,Bone,42,Female,Calcified
+9.985218739624994,Bone,37,Female,Dense Tissue
+5.941657479604572,Brain,48,Female,Dense Tissue
+1.1263892531062019,Bone,50,Female,Soft Tissue
+4.226752036514441,Brain,32,Male,Dense Tissue
+9.510684013451556,Bone,56,Female,Calcified
+7.402706939634712,Soft Tissue,37,Male,Well-Defined
+7.69215867905939,Bone,51,Male,Dense Tissue
+6.567904335856842,Brain,33,Male,Soft Tissue
+3.979186369949106,Breast,73,Female,Calcified
+5.224398023016395,Brain,24,Male,Irregular
+9.343175252329521,Liver,44,Male,Irregular
+2.900311366034238,Breast,64,Female,Dense Tissue
+5.30592302769684,Soft Tissue,79,Female,Calcified
+8.235395582807381,Liver,70,Male,Soft Tissue
+2.9399737460388713,Breast,79,Male,Dense Tissue
+3.1132523453711567,Liver,83,Female,Soft Tissue
+3.849278224862393,Bone,47,Male,Dense Tissue
+2.9037546855428387,Soft Tissue,42,Female,Dense Tissue
+5.315201681055932,Breast,73,Female,Dense Tissue
+5.0506115690121485,Soft Tissue,33,Female,Dense Tissue
+4.3948052525813,Breast,21,Male,Irregular
+8.402119140818076,Breast,57,Female,Calcified
+6.412831186390932,Soft Tissue,33,Male,Well-Defined
+3.2077856591800686,Bone,67,Female,Well-Defined
+4.838367121535296,Soft Tissue,40,Female,Soft Tissue
+9.366242971507377,Brain,58,Male,Calcified
+5.144132861545444,Soft Tissue,63,Female,Dense Tissue
+2.8192661125666176,Breast,29,Male,Dense Tissue
+7.3205482424408945,Bone,74,Female,Dense Tissue
+9.055841181454829,Breast,81,Male,Irregular
+4.001410673463491,Liver,58,Female,Soft Tissue
+1.9874628288386145,Breast,62,Male,Dense Tissue
+4.9402264810768415,Soft Tissue,26,Female,Irregular
+1.2388622352486762,Brain,21,Male,Irregular
+6.127133989946943,Liver,84,Female,Dense Tissue
+8.19915164811301,Soft Tissue,39,Female,Well-Defined
+7.615202690654604,Liver,23,Male,Calcified
+5.92745137932304,Brain,70,Female,Irregular
+3.2210898575921867,Breast,57,Female,Well-Defined
+3.536442930375855,Brain,48,Male,Irregular
+5.674008549100864,Soft Tissue,69,Male,Dense Tissue
+5.614605266057013,Liver,57,Female,Soft Tissue
+1.9528669267550909,Liver,77,Female,Calcified
+8.650089572313549,Breast,20,Male,Soft Tissue
+3.2339029718648344,Soft Tissue,75,Female,Soft Tissue
+9.221436644406952,Breast,30,Female,Dense Tissue
+4.753535448682488,Soft Tissue,38,Male,Well-Defined
+8.759674035571846,Bone,18,Female,Calcified
+9.75933464739411,Breast,29,Male,Calcified
+6.5423238995256225,Soft Tissue,34,Female,Dense Tissue
+1.1707465759065578,Bone,59,Female,Dense Tissue
+5.0,Brain,45,Male,Soft Tissue
